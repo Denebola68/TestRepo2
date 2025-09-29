@@ -11,5 +11,9 @@ Feature branch changes GitHub.
 Testujeme lokální změny a jejich propagaci online.
 
 Testujeme merge funkcionalitu.
+<<<<<<< HEAD
 
 Testujeme kinfliktní merge z větve feature.
+=======
+Testujeme konfliktni změnu z featureB branche.
+>>>>>>> featureB
